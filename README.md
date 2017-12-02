@@ -1,2 +1,2 @@
-# ios-calculator
-My first ever iOS app - a simple calculator. 
+# Screenshot
+<img src="screenshot.png" /> 
